@@ -1,0 +1,4 @@
+---- HAL_SPI_Transmit_DMA Matches (3 in 2 files) ----
+Stm32l4xx_hal_spi.c (e:\wxg_shakesensor\shaker_sw_v3\shakev3_demo\shaker_v3\drivers\stm32l4xx_hal_driver\src):            (#) TX processes are HAL_SPI_Transmit(), HAL_SPI_Transmit_IT() and HAL_SPI_Transmit_DMA()
+Stm32l4xx_hal_spi.c (e:\wxg_shakesensor\shaker_sw_v3\shakev3_demo\shaker_v3\drivers\stm32l4xx_hal_driver\src):HAL_StatusTypeDef HAL_SPI_Transmit_DMA(SPI_HandleTypeDef *hspi, uint8_t *pData, uint16_t Size)
+Stm32l4xx_hal_spi.h (e:\wxg_shakesensor\shaker_sw_v3\shakev3_demo\shaker_v3\drivers\stm32l4xx_hal_driver\inc):HAL_StatusTypeDef HAL_SPI_Transmit_DMA(SPI_HandleTypeDef *hspi, uint8_t *pData, uint16_t Size);
